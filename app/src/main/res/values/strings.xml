@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="notes">SELECT * FROM notes ORDER BY id DESC</string>
+    <string name="into">UPDATE notes SET title=:title, notes =:notes WHERE ID=:id</string>
+</resources>
